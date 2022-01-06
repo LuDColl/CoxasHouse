@@ -1,0 +1,12 @@
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\bin\Debug\net6.0\Domain.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\bin\Debug\net6.0\ref\Domain.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\ref\Domain.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache

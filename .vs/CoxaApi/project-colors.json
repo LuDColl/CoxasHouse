@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d66490ba-7a38-40ad-9d04-b1a337978f91": {
+      "ProjectGuid": "d66490ba-7a38-40ad-9d04-b1a337978f91",
+      "DisplayName": "Application",
+      "ColorIndex": 0
+    },
+    "163fc301-f4e3-4058-b4ef-6a2c0b9f2944": {
+      "ProjectGuid": "163fc301-f4e3-4058-b4ef-6a2c0b9f2944",
+      "DisplayName": "Domain",
+      "ColorIndex": 1
+    },
+    "0b233e5c-b266-492f-aaed-e7b6a6eb7654": {
+      "ProjectGuid": "0b233e5c-b266-492f-aaed-e7b6a6eb7654",
+      "DisplayName": "Infraestructure",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "6adb092a-65f1-4b72-84bc-0a988614ef47": {
+      "ProjectGuid": "6adb092a-65f1-4b72-84bc-0a988614ef47",
+      "DisplayName": "Service",
+      "ColorIndex": 3
+    },
+    "30ffcaf7-eded-407f-8b4e-053aa4f9811e": {
+      "ProjectGuid": "30ffcaf7-eded-407f-8b4e-053aa4f9811e",
+      "DisplayName": "Commom",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

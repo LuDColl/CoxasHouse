@@ -1,0 +1,11 @@
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\bin\Debug\net6.0\Commom.deps.json
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\bin\Debug\net6.0\Commom.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\bin\Debug\net6.0\ref\Commom.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\bin\Debug\net6.0\Commom.pdb
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.AssemblyInfoInputs.cache
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.AssemblyInfo.cs
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.csproj.CoreCompileInputs.cache
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\ref\Commom.dll
+C:\Users\lucas.guimaraes\source\repos\CoxaApi\Commom\obj\Debug\net6.0\Commom.pdb
